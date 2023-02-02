@@ -2,6 +2,8 @@
 
 Welcome to Nexter, the premier real estate company providing top-notch services for all your property needs. <br /> Our website is designed to make searching for your dream home easy and convenient. <br /> Built using HTML and CSS, the website features a 12x12 reusable and responsive grid, ensuring optimal viewing experience across all devices. <br /> Browse our listings and let Nexter help you find your next home.
 
+[Visit Nexter &#8594;](https://vito-savalli.github.io/Nexter/)
+
 ## Project Info
 
 This project was built through an online course provided by Jonas Schmedtmann on Udemy.com
@@ -16,6 +18,6 @@ Course detail : 28h video course on advanced CSS and CSS preprocessor concepts, 
 
 Say hi ! I'm always excited to connect with new people !
 
-[My Linkedin](https://www.linkedin.com/in/vito-savalli/)  
-Email: vito.savallimunoz@gmail.com  
-tel: +33660696138
+[My Linkedin &#8594;](https://www.linkedin.com/in/vito-savalli/)  
+&#9993; : vito.savallimunoz@gmail.com  
+&#128222; : +33660696138
