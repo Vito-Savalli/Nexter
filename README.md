@@ -1,6 +1,6 @@
 # Nexter
 
-Welcome to Nexter, the premier real estate company providing top-notch services for all your property needs. <br /> Our website is designed to make searching for your dream home easy and convenient. <br /> Built using HTML and CSS, the website features a 12x12 reusable and responsive grid, ensuring optimal viewing experience across all devices. <br /> Browse our listings and let Nexter help you find your next home.
+Welcome to Nexter, the premier real estate company providing top-notch services for all your property needs. <br /> Our website is designed to make searching for your dream home easy and convenient. <br /> Built using HTML CSS and SCSS, the website features a 12x12 reusable and responsive grid, ensuring optimal viewing experience across all devices. <br /> Browse our listings and let Nexter help you find your next home.
 
 [Visit Nexter &#8594;](https://vito-savalli.github.io/Nexter/)
 
